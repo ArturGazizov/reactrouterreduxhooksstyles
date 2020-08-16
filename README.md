@@ -1,5 +1,6 @@
 # reactrouterreduxhooksstyles
 
+npm start everywhere
 
 7.1-7.6
 react , redux adding anecdotes, seeing separate ones and temporary, not overlapping in time ,notification
@@ -21,5 +22,18 @@ blogs app, users details, only author of blog can delete, log in functionality, 
 users page lists them and blogs amount. user page lists blogs of user
 
 functionality of adding comments
+
+
+
+in .env file write:
+MONGODB_URI = 'mongodb+srv://LOGIN:PASSWORD@cluster0-wcm2d.gcp.mongodb.net/test?retryWrites=true&w=majority'
+TEST_MONGODB_URI='mongodb+srv://LOGIN:PASSWORD@cluster0-wcm2d.gcp.mongodb.net/test?retryWrites=true&w=majority'
+SECRET='ssasaa'
+PORT=3001
+
+
+
+
+
 
 usaernames: mluukkai mluukkai2 passwords: salainen salainen2
